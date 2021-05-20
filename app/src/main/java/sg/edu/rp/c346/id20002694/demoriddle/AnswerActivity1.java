@@ -20,7 +20,7 @@ public class AnswerActivity1 extends AppCompatActivity {
 
         Log.d("AnswerActivity1", "onCreate() called.");
 
-
+        //dw
 
         Intent intentReceived = getIntent();
         String questionsSelected = intentReceived.getStringExtra("Question");
